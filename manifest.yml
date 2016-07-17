@@ -1,0 +1,5 @@
+applications:
+  name: web-sample
+  memory: 512M
+  instances: 1
+  random-route: true
