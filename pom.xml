@@ -86,10 +86,9 @@
                     <org>org.kopiitem</org>
                     <space>development</space>
                     <appname>web-sample</appname>
-                    <url>web-sample.cfapps.io</url>
+                    <url>http://web-sample.cfapps.io</url>
                     <memory>512</memory>
                     <instances>1</instances>
-                    <target>./target/web-sample-0.0.1-SNAPSHOT.jar</target>
                     <env>
                         <ENV-VAR-NAME>env-var-value</ENV-VAR-NAME>
                         <greeting>Hello</greeting>
