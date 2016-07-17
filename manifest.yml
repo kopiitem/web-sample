@@ -1,5 +1,7 @@
 applications:
-  name: web-sample
+- name: web-sample
   memory: 512M
   instances: 1
-  random-route: true
+  random-route: false
+  path: ./
+  buildpack: https://github.com/kopiitem/web-sample.git
