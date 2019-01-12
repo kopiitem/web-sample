@@ -1,0 +1,12 @@
+# web-sample
+
+A simple web-test deployment to cloud foundry with maven plugin:
+
+[source]
+----
+    <plugin>
+        <groupId>org.cloudfoundry</groupId>
+        <artifactId>cf-maven-plugin</artifactId>
+    </plugin>
+----
+
